@@ -1,2 +1,12 @@
 .DS_Store
 node_modules/
+dist/
+
+# AI agent / assistant config and docs — not part of the shipped project
+CLAUDE.md
+.claude/
+.cursor/
+.cursorrules
+.windsurfrules
+.github/copilot-instructions.md
+AGENTS.md

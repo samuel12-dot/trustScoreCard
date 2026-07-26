@@ -5,6 +5,13 @@ score gauge, a tier badge (High / Moderate / Low), per-category verification
 badges (Address, Face, Category, Virtual Inspection), and a score breakdown by
 category.
 
+## Design
+
+Figma: https://www.figma.com/design/9ovH41Ri3jJ98RrWlewpjC/Trust-Score-Card
+
+![Trust Score Card showcase](docs/design-showcase.png)
+![Trust Score Card design system](docs/design-system.png)
+
 ## Getting started
 
 ```bash
